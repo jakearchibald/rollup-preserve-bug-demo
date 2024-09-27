@@ -4,6 +4,6 @@
     "build": "rollup -c"
   },
   "dependencies": {
-    "rollup": "^2.7.6"
+    "rollup": "^2.79.2"
   }
 }
